@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "refinementsb",
+    "name": "Refinement",
+    "description": "A mod aimed at creating a more streamline Skyblock Experience",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "Lux"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]

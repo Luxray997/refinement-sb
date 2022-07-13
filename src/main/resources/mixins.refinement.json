@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "compatibilityLevel": "JAVA_8",
+  "package": "lux.skyblock.refinement.mixins",
+  "refmap": "mixins.refinement.refmap.json",
+  "mixins": [
+    "MixinGuiChest",
+    "MixinGuiContainer",
+    "MixinGuiMainMenu",
+    "MixinNetHandlerPlayClient",
+    "MixinNetworkManager"
+  ],
+  "client": [
+    "MixinEntityRenderer",
+    "MixinMinecraft"
+  ]
+}
