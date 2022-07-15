@@ -1,5 +1,5 @@
-# Refinement
-A mod for Hypixel Skyblock to create a better MMO experience
+# Refinement [0.2.0]
+A  Hypixel Skyblock mod to create a better MMO experience
 
 ## Features
 Custom GUI's

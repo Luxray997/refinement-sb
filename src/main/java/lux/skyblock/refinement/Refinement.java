@@ -12,7 +12,7 @@ import net.minecraftforge.fml.common.event.FMLPreInitializationEvent;
 
 import java.io.File;
 
-@Mod(modid = "refinementsb", name = "Refinement", version = "0.0.1")
+@Mod(modid = "refinementsb", name = "Refinement", version = "0.2.0")
 public class Refinement {
 
 
